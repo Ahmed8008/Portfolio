@@ -2,7 +2,7 @@
 import React from 'react';
 import { FaPaperPlane } from 'react-icons/fa';
 import {motion} from "framer-motion";
-import {sendEmail} from "/actions/sendEmail";
+import {sendEmail} from "@/actions/sendEmail";
 import toast from 'react-hot-toast';
 
 
