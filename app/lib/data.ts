@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import Glowifybeautyimg from "/public/Glowifybeautyimg.png";
-import FolksAdventure from "/public/FolksAdventure.png";
+import LesvestieHair from "/public/LesvestieHair.png";
 import UIDataAgency from "/public/UIDataAgency.png";
 import inventorymangemnetsystem from "/public/inventorymangemnetsystem.png";
 import ExerciseLog from "/public/ExerciseLog.png"
