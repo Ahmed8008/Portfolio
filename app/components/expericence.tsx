@@ -31,7 +31,7 @@ export default function Experience() {
                         {{
                                 borderRight: "0.4rem solid #9ca3af"
                             }}
-                            date={item.date}
+                            //date={item.date}
                             //icon={item.icon}
                         
                         iconStyle={
