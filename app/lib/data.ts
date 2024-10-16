@@ -70,20 +70,20 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Folks Adventure",
+    title: "LeVestie Hair",
     description:
-      "Welcome to Folks Adventure, where every journey begins with a click. Our website is your gateway to a world of exploration, offering seamless booking experiences for your dream destinations.",
-    tags: ["HTML", "CSS", "Wordpress", "Elementor", "Php"],
+      "LeVestie Hair – Where style meets elegance. Elevate your look with our expert hair care, tailored just for you. Book your appointment today and experience luxury like never before!.",
+    tags: ["HTML", "CSS", "Bootstrap"],
     imageUrl: FolksAdventure,
-    link:"https://folksadventures.com/",
+    link:"https://levestihair.com/",
   },
   {
-    title: "Glowify Beauty",
+    title: "Movie Review and Rating Platform",
     description:
-      "Welcome to Glowify Beauty, your ultimate destination for all things cosmetic and glamorous! At Glowify, we believe that beauty is not just about how you look, but how you feel.",
-    tags: ["HTML", "CSS", "ASP DOT NET", "C#", "JavaScript","SQL Server"],
+      "A Movie Review and Rating Platform allows users to discover, review, and rate movies. It provides a space for movie enthusiasts to share opinions, read others' insights, and find top-rated films based on community feedback.",
+    tags: ["HTML", "TailwindCSS", "NextJs","TypeScript","Neom Db"],
     imageUrl: Glowifybeautyimg,
-    link:"https://glowifybeauty.azurewebsites.net/",
+    link:"https://movie-review-rouge.vercel.app/",
   },
   {
     title: "Inventory Mangement System",
@@ -91,23 +91,15 @@ export const projectsData = [
       " An Inventory Management System (IMS) is an essential tool for businesses of all sizes to effectively oversee their inventory operations tracking, managing, and optimizing.",
       tags: ["HTML", "CSS", "ASP DOT NET", "C#", "JavaScript","SQL Server"],
     imageUrl: inventorymangemnetsystem,
-    link:"https://inventorymangementsystem.azurewebsites.net/",
+    link:"http://inventorymangementsystem.somee.com/Accounts/SignIn",
   },
   {
-    title: "UI of Data Agency Website",
+    title: "Car Hub",
     description:
-      " Data Agency, more than just a website.Our UI is built on the principles of simplicity.Navigating through our website is an intuitive experience",
-    tags: ["HTML","TailWind Css","JavaScript"],
-    imageUrl: UIDataAgency,
-    link:"https://uidataagency.azurewebsites.net/",
-  },
-  {
-    title: "Exercise Log",
-    description:
-      " The Exercise Log gym project is a web application designed to help individuals track and manage their workouts effectively",
-      tags: ["HTML", "CSS", "ASP DOT NET", "C#", "JavaScript","SQL Server"],
+      "Car Hub is your one-stop destination for everything automotive! From buying and selling cars to expert reviews and maintenance tips, we cover all your car-related needs. Drive smarter with Car Hub!",
+      tags: ["HTML", "TailwindCSS", "NextJs", "Typescript", "JavaScript","NeomDb"],
     imageUrl: ExerciseLog,
-    link:"https://excerciselog.azurewebsites.net/",
+    link:"https://car-hub-iota-orpin.vercel.app/?vercelToolbarCode=Q5F7PZ2GLkPlk45",
   },
   
   
