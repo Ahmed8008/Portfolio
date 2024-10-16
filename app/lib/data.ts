@@ -69,6 +69,14 @@ export const projectsData = [
     imageUrl: LesvestieHair,
     link:"https://levestihair.com/",
   },
+    {
+    title: "Elite Sports Wear",
+    description:
+      "LeVestie Hair – Where style meets elegance. Elevate your look with our expert hair care, tailored just for you. Book your appointment today and experience luxury like never before!.",
+    tags: ["HTML", "CSS", "Bootstrap"],
+    imageUrl: LesvestieHair,
+    link:"https://elitesportswear.co.uk/",
+  },
   {
     title: "Movie Review and Rating Platform",
     description:
