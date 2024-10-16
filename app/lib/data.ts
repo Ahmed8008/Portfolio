@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import Glowifybeautyimg from "/public/Glowifybeautyimg.png";
 import LesvestieHair from "/public/LesvestieHair.png";
 import UIDataAgency from "/public/UIDataAgency.png";
+import inventorymangemnetsystem from "/public/inventorymangemnetsystem.png";
 
 export const links = [
   {
