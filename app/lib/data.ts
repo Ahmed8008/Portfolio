@@ -74,7 +74,7 @@ export const projectsData = [
     description:
       "LeVestie Hair – Where style meets elegance. Elevate your look with our expert hair care, tailored just for you. Book your appointment today and experience luxury like never before!.",
     tags: ["HTML", "CSS", "Bootstrap"],
-    imageUrl: LesvestieHair,
+    imageUrl: Glowifybeautyimg,
     link:"https://levestihair.com/",
   },
   {
