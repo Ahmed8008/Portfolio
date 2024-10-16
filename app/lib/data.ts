@@ -80,7 +80,7 @@ export const projectsData = [
   {
     title: "Movie Review and Rating Platform",
     description:
-      "A Movie Review and Rating Platform allows users to discover, review, and rate movies. It provides a space for movie enthusiasts to share opinions, read others' insights, and find top-rated films based on community feedback.",
+      "A platform for discovering, reviewing, and rating movies, where users share opinions and explore top-rated films.",
     tags: ["HTML", "TailwindCSS", "NextJs","TypeScript","Neom Db"],
     imageUrl: Glowifybeautyimg,
     link:"https://movie-review-rouge.vercel.app/",
