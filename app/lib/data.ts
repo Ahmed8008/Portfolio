@@ -2,11 +2,11 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import Glowifybeautyimg from "/public/Glowifybeautyimg.png";
+import MovieReview from "/public/MovieReview.png";
 import LesvestieHair from "/public/LesvestieHair.png";
-import UIDataAgency from "/public/UIDataAgency.png";
+import EliteSportswear from "/public/EliteSportswear.png";
 import inventorymangemnetsystem from "/public/inventorymangemnetsystem.png";
-import ExerciseLog from "@/public/ExerciseLog.png"
+import CarHub from "/public/CarHub.png"
 
 export const links = [
   {
@@ -73,9 +73,9 @@ export const projectsData = [
     {
     title: "Elite Sports Wear",
     description:
-      "LeVestie Hair – Where style meets elegance. Elevate your look with our expert hair care, tailored just for you. Book your appointment today and experience luxury like never before!.",
-    tags: ["HTML", "CSS", "Bootstrap"],
-    imageUrl: LesvestieHair,
+      "EliteSportswear offers premium, stylish sportswear designed for performance and comfort. Explore our collection for athletes of all levels, featuring high-quality fabrics and modern designs.",
+    tags: ["Wordpress", "Elementor", "php"],
+    imageUrl: EliteSportswear,
     link:"https://elitesportswear.co.uk/",
   },
   {
@@ -83,7 +83,7 @@ export const projectsData = [
     description:
       "A platform for discovering, reviewing, and rating movies, where users share opinions and explore top-rated films.",
     tags: ["HTML", "TailwindCSS", "NextJs","TypeScript","Neom Db"],
-    imageUrl: Glowifybeautyimg,
+    imageUrl: MovieReview,
     link:"https://movie-review-rouge.vercel.app/",
   },
   {
@@ -99,7 +99,7 @@ export const projectsData = [
     description:
       "Car Hub is your one-stop destination for everything automotive! From buying and selling cars to expert reviews and maintenance tips, we cover all your car-related needs. Drive smarter with Car Hub!",
       tags: ["HTML", "TailwindCSS", "NextJs", "Typescript", "JavaScript","NeomDb"],
-    imageUrl: ExerciseLog,
+    imageUrl: CarHub,
     link:"https://car-hub-iota-orpin.vercel.app/?vercelToolbarCode=Q5F7PZ2GLkPlk45",
   },
   
