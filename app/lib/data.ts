@@ -36,35 +36,27 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Folks Adventure",
+    title: "Levesti Hair",
     description:
-    "Rapid response and impeccable delivery, met all requirements with finesse. Couldn't be happier with the outcome, already discussing our next collaboration." 
-      ,
-    date: "March 2024 - May 2024",
+    "Ahmed offered me a very nice website at a good price. He is a very active listener and I thank him for that. He is very passionate about sin and that is remarkable. If you want your website, he is the one to go to.", 
   },
   {
-    title: "Glowify Beauty",
+    title: "Movie Review and Rating Platform",
     description: "Exceptionally quick and attentive, delivered outstanding results that left me beyond satisfied.",
-    date: "Jan 2024 - March 2024",
   },
   {
     title: "Inventory Mangement System",
     description:
       "Impressively swift and spot-on, exceeded expectations with flawless execution. Delighted with the results and eager to collaborate again. Highly recommended for a seamless experience!",
-    date: "Nov 2023 - Jan 2024",
+  
   },
   {
-    title: "Exercise Log",
+    title: "Car Hub",
     description:
       "Superbly efficient and precise, nailed the task effortlessly. Thrilled with the outcome and already planning the next venture. Highly recommend this top-notch service!",
-    date: "Nov 2023 - Nov 2023",
+   
   },
-  {
-    title: "UI of Data Agency Website",
-    description:
-      "Very quick and responsive, knew exactly what i required and deliver expectional work.Very pleased.Have already lined up the next project for us to work on.Would highly recommended.",
-    date: "June 2022 - Aug 2022",
-  },
+ 
 
 ] as const;
 
